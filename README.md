@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I am Patrick Kane.
+
+### Here are some things I am currently working on:
+
+- Refreshing my dotfiles.
+- Getting back my bash skills.
+- Relearning containers with `podman` instead of `docker`.
 
 <!--
 **patrickkanexyz/patrickkanexyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
