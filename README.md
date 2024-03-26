@@ -3,7 +3,7 @@
 ### Here are some things I am currently working on:
 
 - Refreshing my dotfiles.
-- Getting back my bash skills.
+- Getting back my `bash` skills.
 - Relearning containers with `podman` instead of `docker`.
 
 <!--
