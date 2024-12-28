@@ -4,6 +4,7 @@
 
 - Refreshing my dotfiles.
 - Working through [codechallenges.fyi](https://codechallenges.fyi)
+- Rebuilding my website [patrickkane.xyz](https://patrickkane.xyz)
 
 <!--
 **patrickkanexyz/patrickkanexyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
